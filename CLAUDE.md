@@ -7,7 +7,7 @@ Personal academic webpage for Yifu Wu, built with Hugo and Hugo Blox Builder (ac
 - **Static site generator**: Hugo (v0.145.0)
 - **Theme**: Hugo Blox Builder (`blox-tailwind` v0.3.1)
 - **Deployment**: GitHub Actions -> GitHub Pages
-- **URL**: https://nnonno.github.io/yifu_wu/
+- **URL**: https://nnonno.github.io/
 
 ## Key Directories
 - `config/_default/` - Hugo configuration (hugo.yaml, params.yaml, menus.yaml, module.yaml, languages.yaml)

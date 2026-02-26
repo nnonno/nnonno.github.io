@@ -24,8 +24,8 @@ role: Applied Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Amazon
-    url: https://www.amazon.science/
+  - name: AWS GenAI
+    url: https://aws.amazon.com/ai/generative-ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,52 +43,44 @@ profiles:
     url: https://orcid.org/0000-0001-5132-2980
 
 interests:
-  - Artificial Intelligence
-  - Large Language Model
-  - Information Security
+  - NLP & Large Language Models
+  - Distributed Systems & HPC
+  - Cybersecurity & Privacy
+  - AI Infrastructure
 
 education:
-  - area: PhD in Cyber-Physical System
+  - area: PhD in Computer and Information Technology
     institution: Purdue University
-    date_start: 2019-08-20
-    date_end: 2024-05-12
+    date_start: 2019-08-01
+    date_end: 2024-05-01
     summary: |
-      Thesis on _Data-Driven Computing and Networking Solution for Securing Cyber-Physical Systems_. Supervised by [Prof Jin Wei-Kocsis](https://polytechnic.purdue.edu/profile/kocsis0). Presented papers at 7 conference papers and journels on IEEE conferences.
+      Dissertation: _Data-Driven Computing and Networking Solution for Securing Cyber-Physical Systems_. Supervised by [Prof Jin Wei-Kocsis](https://polytechnic.purdue.edu/profile/kocsis0). Research areas: distributed machine learning, HPC infrastructure, cybersecurity, resource allocation, AI for robotics. 15+ publications, 2 US patents.
     button:
       text: 'Read Thesis'
       url: "https://hammer.purdue.edu/articles/thesis/Data-Driven_Computing_and_Networking_Solution_for_Securing_Cyber-Physical_Systems/25744824?file=46078863"
-  - area: MS in Computer Science
-    institution: Iowa State University
-    date_start: 2017-08-15
-    date_end: 2018-01-31
-    summary: Natural Language Processing, Word Embedding, Information Retrival
-  - area: PhD in Electrical & Computer Engineering
-    institution: University of Akron
-    date_start: 2015-08-15
-    date_end: 2019-07-31
-    summary: Power System Communication, Computer Networking, Machine Learning
-  - area: MEng in Electrical Engineering
+  - area: ME in Electronic and Computer Engineering
     institution: University of Limerick
-    date_start: 2014-01-15
-    date_end: 2012-06-01
-    summary: Circuit Design, FPGA, Design for Testing
+    date_start: 2013-09-01
+    date_end: 2015-01-01
+    summary: VLSI circuit design and test, embedded systems, hardware-software integration
   - area: BS in Automation
     institution: Harbin Institute of Technology
     date_start: 2007-09-01
     date_end: 2011-07-01
-    summary: Control Theory, Power System, Robotics
+    summary: Industrial control systems and automation
 
 work:
   - position: Applied Scientist
-    company_name: Amazon
+    company_name: AWS GenAI
     company_url: ''
     company_logo: ''
     date_start: 2025-04-14
     date_end: ''
     summary: |
-      Responsible AI solutions for LLM include:
-      - LLM guardrails
-      - Massive Text Embedding Model
+      LLM inference optimization and responsible AI:
+      - Optimized LLM inference with sglang and vLLM, achieving 50% latency reduction
+      - Built multilingual PII and policy violation classifiers (Sparse RoBERTa, Qwen3-0.6B), improving precision by 60%
+      - Developed guardrail models for Alexa's core LLM ensuring policy-compliant responses across languages
   - position: NLP Data Scientist
     company_name: University of Colorado Anschutz Medical Campus
     company_url: ''
@@ -96,21 +88,69 @@ work:
     date_start: 2024-08-20
     date_end: 2025-03-31
     summary: |
-      Meidical NLP research works include:
-      - Neural symbolic reasoning on clinical text
-      - Fine-tuning large language models (LLMs) 
-      - Reasoning on medical knowledge graph
-  - position: Machine Learning Engineer
-    company_name: SuperInBox
+      Clinical NLP research:
+      - Built clinical diagnosis reasoning via knowledge graph networks with LLM reasoning and response re-ranking
+      - Designed LLM pretraining pipeline over large-scale healthcare knowledge bases with distributed training
+      - Contributed to LogosKG: hardware-optimized scalable knowledge graph retrieval system
+      - Coauthored paper on clinical text summarization with temporal reasoning (EMNLP 2025)
+  - position: Machine Learning Engineer Intern
+    company_name: AI Newsletter Startup
     company_url: ''
     company_logo: ''
     date_start: 2024-06-15
     date_end: 2024-08-15
     summary: |
-      Responsibilities include:
-      - Build pipeline of LLM-based AI newsletter generation on Azure
-      - Cluster and filter tremendous amounts of news resources from web-crawling
-      - Generate news letter via chain of thought reasoning process in LLM
+      AI-powered newsletter generation:
+      - Built event clustering/extraction on web-scraped data with RAG for news summarization
+      - Engineered LLM-powered summarization and rewriting pipeline for production content workflows
+  - position: Research Assistant
+    company_name: Purdue University
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-12-01
+    date_end: 2024-05-01
+    summary: |
+      HPC, distributed systems & AI infrastructure research:
+      - Designed decentralized ML system for NASA spacecraft networks using blockchain-based coordination
+      - Built distributed ML on embedded devices (Raspberry Pi, Nvidia Jetson) using Torch-TensorRT
+      - Developed GPT-3.5 agentic coding workflow for autonomous robot control code generation
+      - Published multiple papers in IEEE and top-tier venues on distributed systems and cybersecurity
+  - position: Research Assistant
+    company_name: Iowa State University
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-08-01
+    date_end: 2017-12-31
+    summary: |
+      HPC storage systems:
+      - Optimized HPC distributed storage I/O throughput prediction using LSTM/RNN models on Lustre parallel filesystem across 32-node clusters
+  - position: Research Assistant
+    company_name: University of Akron
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-08-01
+    date_end: 2019-07-31
+    summary: |
+      Networking security & smart grid systems:
+      - Designed HIL testing infrastructure for large-scale renewable energy systems
+      - Implemented attack detection and resilient communication middleware for smart grids using ML and SDN
+      - Developed blockchain-powered decentralized computing system (2 US patents granted)
+  - position: Instructor
+    company_name: Tsinghua IT Training School
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-01-01
+    date_end: 2015-06-30
+    summary: |
+      Taught C programming fundamentals and web development (HTML/HTML5)
+  - position: Software Engineer
+    company_name: Haite Measurement and Control Technology Co.
+    company_url: ''
+    company_logo: ''
+    date_start: 2011-09-01
+    date_end: 2012-12-31
+    summary: |
+      Developed embedded system software using industrial fieldbuses (Modbus, Profibus-PA/DP) for measurement and control systems
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -121,10 +161,10 @@ skills:
         description: ''
         percent: 100
         icon: devicon/python
-      - name: Machine Learning
+      - name: PyTorch
         description: ''
-        percent: 100
-        icon: devicon/android
+        percent: 90
+        icon: devicon/pytorch
       - name: Linux
         description: ''
         percent: 80
@@ -139,7 +179,7 @@ skills:
         percent: 75
         icon: person-simple-walk
       - name: Photography
-        description: check my Unsplash [https://unsplash.com/@nnonno](https://unsplash.com/@nnonno)
+        description: ''
         percent: 75
         icon: camera
 
@@ -158,4 +198,4 @@ awards:
 ---
 
 ## About Me
-Yifu Wu is an applied scientist at Amazon. His research interests include large language models, reinforcement learning, data security and privacy, and cyber-physical systems.
+Yifu Wu is an Applied Scientist at AWS GenAI. He has 14+ years of experience spanning NLP, distributed systems, HPC, cybersecurity, and AI infrastructure. His work includes LLM inference optimization, production-scale multilingual classifiers, clinical NLP, and distributed ML systems for NASA spacecraft networks. He holds a PhD from Purdue University with 15+ peer-reviewed publications and 2 US patents.

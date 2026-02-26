@@ -35,8 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a applied scientist of team Trust Sensitive C&Intelligence at Amazon. I have a board interest in machine learning area especially applied machine learning in NLP, CV, Cyber-Physical Systems such robotics and power system. Meanwhile, I am intereted in data security and privacy especially differential privacy as well. In addition, I have a solid background of embedded systems and other electronic devices. Looking forward to design and make something special in life
-        
+        My research spans NLP, LLMs, distributed systems, and cybersecurity. At AWS GenAI, I work on LLM inference optimization and responsible AI guardrails. Previously, I conducted clinical NLP research at the University of Colorado Anschutz Medical Campus, contributing to knowledge graph retrieval systems and clinical text summarization (EMNLP 2025). During my PhD at Purdue, I designed decentralized ML systems for NASA spacecraft networks, built distributed learning on embedded devices, and developed blockchain-powered computing systems (2 US patents). I have published 15+ papers in IEEE, AAAI, EMNLP, and other top venues.
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
