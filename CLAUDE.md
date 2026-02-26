@@ -34,6 +34,10 @@ Personal academic webpage for Yifu Wu, built with Hugo and Hugo Blox Builder (ac
 2. **Amazon Alexa Science** (Apr 2024 – Mar 2025) — LLM inference optimization, responsible AI guardrails
 3. Earlier roles: CU Anschutz, AI Newsletter Startup, Purdue RA, Iowa State RA, U of Akron RA, Tsinghua Instructor, Haite SE
 
+## Resume PDF
+- `static/uploads/resume.pdf` — sourced from `cv_comprehensive.pdf` (full academic CV)
+- Linked via the "Download CV" button on the homepage
+
 ## Important Notes
 - `public/` and `resources/` are gitignored build artifacts - do NOT commit them
 - `baseURL` in `config/_default/hugo.yaml` must match the GitHub Pages URL
