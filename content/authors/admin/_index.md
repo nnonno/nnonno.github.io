@@ -74,8 +74,17 @@ work:
     company_name: AWS GenAI
     company_url: ''
     company_logo: ''
-    date_start: 2025-04-14
+    date_start: 2025-03-20
     date_end: ''
+    summary: |
+      B2B AI Application:
+      - Multi-media text/image/video understanding
+  - position: Applied Scientist
+    company_name: Amazon Alexa Science
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-04-14
+    date_end: 2025-03-19
     summary: |
       LLM inference optimization and responsible AI:
       - Optimized LLM inference with sglang and vLLM, achieving 50% latency reduction
