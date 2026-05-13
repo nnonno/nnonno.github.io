@@ -207,4 +207,4 @@ awards:
 ---
 
 ## About Me
-Yifu Wu is an Applied Scientist at AWS GenAI. He has 14+ years of experience spanning NLP, distributed systems, HPC, cybersecurity, and AI infrastructure. His work includes LLM inference optimization, production-scale multilingual classifiers, clinical NLP, and distributed ML systems for NASA spacecraft networks. He holds a PhD from Purdue University with 15+ peer-reviewed publications and 2 US patents.
+Yifu Wu is an Applied Scientist at AWS GenAI. He has 8 years of experience spanning NLP, distributed systems, HPC, cybersecurity, and AI infrastructure. His work includes LLM inference optimization, production-scale multilingual classifiers, clinical NLP, and distributed ML systems for NASA spacecraft networks. He holds a PhD from Purdue University with 15+ peer-reviewed publications and 2 US patents.
