@@ -1,4 +1,7 @@
 ---
+# Hidden 2026-10-02: unedited Hugo Blox template placeholder.
+# Replace the content with real material before removing this line.
+draft: true
 title: 🎉 Easily create your own simple yet highly customizable blog
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-10-27

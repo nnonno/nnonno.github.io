@@ -1,4 +1,7 @@
 ---
+# Hidden 2026-10-02: unedited Hugo Blox template placeholder.
+# Replace the content with real material before removing this line.
+draft: true
 title: 🧠 Sharpen your thinking with a second brain
 summary: Create a personal knowledge base and share your knowledge with your peers.
 date: 2023-10-26

@@ -1,4 +1,7 @@
 ---
+# Hidden 2026-10-02: unedited Hugo Blox template placeholder.
+# Replace the content with real material before removing this line.
+draft: true
 title: ✅ Manage your projects
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 date: 2023-10-23

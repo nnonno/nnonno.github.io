@@ -24,7 +24,7 @@ role: Applied Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: AWS GenAI
+  - name: AWS Generative AI Innovation Center
     url: https://aws.amazon.com/ai/generative-ai/
 
 # Social network links
@@ -49,21 +49,21 @@ interests:
   - AI Infrastructure
 
 education:
-  - area: PhD in Computer and Information Technology
+  - area: Ph.D. in Computer and Information Technology
     institution: Purdue University
     date_start: 2019-08-01
     date_end: 2024-05-01
     summary: |
-      Dissertation: _Data-Driven Computing and Networking Solution for Securing Cyber-Physical Systems_. Supervised by [Prof Jin Wei-Kocsis](https://polytechnic.purdue.edu/profile/kocsis0). Research areas: distributed machine learning, HPC infrastructure, cybersecurity, resource allocation, AI for robotics. 15+ publications, 2 US patents.
+      Dissertation: _Data-Driven Computing and Networking Solution for Securing Cyber-Physical Systems_. Supervised by [Prof Jin Wei-Kocsis](https://polytechnic.purdue.edu/profile/kocsis0). Research areas: distributed machine learning, HPC infrastructure, cybersecurity, resource allocation, AI for robotics. 2 US patents.
     button:
       text: 'Read Thesis'
       url: "https://hammer.purdue.edu/articles/thesis/Data-Driven_Computing_and_Networking_Solution_for_Securing_Cyber-Physical_Systems/25744824?file=46078863"
-  - area: ME in Electronic and Computer Engineering
+  - area: M.E. in VLSI Systems
     institution: University of Limerick
     date_start: 2013-09-01
     date_end: 2015-01-01
     summary: VLSI circuit design and test, embedded systems, hardware-software integration
-  - area: BS in Automation
+  - area: B.Eng. in Automation
     institution: Harbin Institute of Technology
     date_start: 2007-09-01
     date_end: 2011-07-01
@@ -71,24 +71,25 @@ education:
 
 work:
   - position: Applied Scientist
-    company_name: AWS GenAI
+    company_name: AWS Generative AI Innovation Center
     company_url: ''
     company_logo: ''
-    date_start: 2025-03-20
+    date_start: 2026-04-06
     date_end: ''
     summary: |
-      B2B AI Application:
-      - Multi-media text/image/video understanding
+      Applied science for LLM agents and inference:
+      - Agent infrastructure for LLM applications
+      - Prompt caching and model routing for LLM agents
+      - LLM inference efficiency
   - position: Applied Scientist
-    company_name: Amazon Alexa Science
+    company_name: Amazon Alexa
     company_url: ''
     company_logo: ''
-    date_start: 2024-04-14
-    date_end: 2025-03-19
+    date_start: 2025-04-14
+    date_end: 2026-04-06
     summary: |
-      LLM inference optimization and responsible AI:
-      - Optimized LLM inference with sglang and vLLM, achieving 50% latency reduction
-      - Built multilingual PII and policy violation classifiers (Sparse RoBERTa, Qwen3-0.6B), improving precision by 60%
+      Responsible AI and content safety:
+      - Built multilingual PII and policy violation classifiers
       - Developed guardrail models for Alexa's core LLM ensuring policy-compliant responses across languages
   - position: NLP Data Scientist
     company_name: University of Colorado Anschutz Medical Campus
@@ -99,9 +100,8 @@ work:
     summary: |
       Clinical NLP research:
       - Built clinical diagnosis reasoning via knowledge graph networks with LLM reasoning and response re-ranking
-      - Designed LLM pretraining pipeline over large-scale healthcare knowledge bases with distributed training
-      - Contributed to LogosKG: hardware-optimized scalable knowledge graph retrieval system
-      - Coauthored paper on clinical text summarization with temporal reasoning (EMNLP 2025)
+      - Contributed to LogosKG: hardware-optimized scalable knowledge graph retrieval system (ACL 2026)
+      - Coauthored paper on clinical text summarization with temporal reasoning (Findings of EMNLP 2025)
   - position: Machine Learning Engineer Intern
     company_name: AI Newsletter Startup
     company_url: ''
@@ -125,6 +125,17 @@ work:
       - Developed GPT-3.5 agentic coding workflow for autonomous robot control code generation
       - Published multiple papers in IEEE and top-tier venues on distributed systems and cybersecurity
   - position: Research Assistant
+    company_name: University of Akron
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-01-01
+    date_end: 2019-07-31
+    summary: |
+      Networking security & smart grid systems:
+      - Designed HIL testing infrastructure for large-scale renewable energy systems
+      - Implemented attack detection and resilient communication middleware for smart grids using ML and SDN
+      - Developed blockchain-powered decentralized computing system (2 US patents granted)
+  - position: Research Assistant
     company_name: Iowa State University
     company_url: ''
     company_logo: ''
@@ -138,12 +149,9 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2015-08-01
-    date_end: 2019-07-31
+    date_end: 2017-08-31
     summary: |
-      Networking security & smart grid systems:
-      - Designed HIL testing infrastructure for large-scale renewable energy systems
-      - Implemented attack detection and resilient communication middleware for smart grids using ML and SDN
-      - Developed blockchain-powered decentralized computing system (2 US patents granted)
+      Networking security & smart grid systems (first period; the work continued in 2018–2019, see above)
   - position: Instructor
     company_name: Tsinghua IT Training School
     company_url: ''
@@ -207,4 +215,4 @@ awards:
 ---
 
 ## About Me
-Yifu Wu is an Applied Scientist at AWS GenAI. He has 8 years of experience spanning NLP, distributed systems, HPC, cybersecurity, and AI infrastructure. His work includes LLM inference optimization, production-scale multilingual classifiers, clinical NLP, and distributed ML systems for NASA spacecraft networks. He holds a PhD from Purdue University with 15+ peer-reviewed publications and 2 US patents.
+Yifu Wu is an Applied Scientist at the AWS Generative AI Innovation Center, where he works on agent infrastructure, prompt caching, model routing, and LLM inference efficiency. His background spans NLP, distributed systems, HPC, cybersecurity, and AI infrastructure. Earlier work includes production-scale multilingual content-safety classifiers at Amazon Alexa, clinical NLP, and distributed ML systems for NASA spacecraft networks. He holds a Ph.D. from Purdue University and has 13 peer-reviewed publications and 2 US patents.

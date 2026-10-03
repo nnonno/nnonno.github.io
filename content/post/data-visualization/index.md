@@ -1,4 +1,7 @@
 ---
+# Hidden 2026-10-02: unedited Hugo Blox template placeholder.
+# Replace the content with real material before removing this line.
+draft: true
 title: 📈 Communicate your results effectively with the best data visualizations
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-25

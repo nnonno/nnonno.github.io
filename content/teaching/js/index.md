@@ -1,4 +1,7 @@
 ---
+# Hidden 2026-10-02: unedited Hugo Blox template placeholder.
+# Replace the content with real material before removing this line.
+draft: true
 title: Learn JavaScript
 summary: Easily learn JavaScript in 10 minutes!
 date: 2023-10-24
