@@ -196,7 +196,7 @@ skills:
         percent: 75
         icon: person-simple-walk
       - name: Photography
-        description: ''
+        description: check my Unsplash [https://unsplash.com/@nnonno](https://unsplash.com/@nnonno)
         percent: 75
         icon: camera
 
